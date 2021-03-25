@@ -1,0 +1,14 @@
+get TMDB Api key 
+create react app 
+setup firebase hosting
+get all the movies
+build the rows 
+build the Banner 
+build the navbar 
+add trailer popup
+
+//Tmdb Api key .. we have to login to get api
+c90f16346329c80a9e92682bc8b2bf6b
+
+sample api request
+https://api.themoviedb.org/3/movie/550?api_key=c90f16346329c80a9e92682bc8b2bf6b&with_genres=27
